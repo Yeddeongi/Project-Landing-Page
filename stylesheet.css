@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    color: white;
+}
+
+a:any-link {
+    text-decoration: none;
+    color: white;
+
+}
+
+#headerlinks {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-top: 35px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#b1 {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 6px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bla {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#bimages {
+    display: flex;
+    fl
+}
